@@ -563,9 +563,9 @@ video {
   font-weight: 700;
 }
 
-.text-red-500 {
+.text-red-100 {
   --tw-text-opacity: 1;
-  color: rgb(239 68 68 / var(--tw-text-opacity));
+  color: rgb(254 226 226 / var(--tw-text-opacity));
 }
 
 .underline {
