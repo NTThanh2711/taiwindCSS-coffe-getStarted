@@ -6,7 +6,7 @@ thêm toàn bộ code để đi paste
 ct = custome taiwind */
 .ct-top-menu-items{
     @apply cursor-pointer hover:text-gray-800 py-1 relative after:absolute after:bottom-0 after:left-0
-    after:bg-gray-800 after:h-1 after:w-0 hover:after:w-full after:transition-all after:ease-in-out after:duration-200;
+    after:bg-gray-800 after:h-1 after:w-0 hover:after:w-full after:transition-all after:ease-in-out after:duration-100;
 }
 .ct-badge-circle{
     @apply text-xs text-center rounded-full px-1.5;
